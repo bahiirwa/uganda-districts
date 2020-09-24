@@ -135,4 +135,4 @@ var UGANDA_DISTRICTS = {
     UG330 : 'Zombo',
 };
 
-return UGANDA_DISTRICTS;
+module.exports = exports = UGANDA_DISTRICTS;
